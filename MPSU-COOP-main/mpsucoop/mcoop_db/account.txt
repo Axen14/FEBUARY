@@ -1,0 +1,4 @@
+Password ng admin.
+
+Username : admen
+Password : admin101
